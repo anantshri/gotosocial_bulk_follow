@@ -1,6 +1,7 @@
 # GOTOSOCIAL BULK FOLLOW Option
 
-This script provides a quick bulk follow option for the gotosocial server
+This script provides a quick bulk follow option for the gotosocial server.
+This is a temporary fix till https://github.com/superseriousbusiness/gotosocial/issues/1034 issue is fixed by team.
 
 Provide your auth token and instance name in either the code or as commandline arguments
 

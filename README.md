@@ -1,5 +1,16 @@
 # GOTOSOCIAL BULK FOLLOW Option
 
+## DEPRECATION WARNING 
+tootcli verison [https://github.com/ihabunek/toot/releases/tag/0.28.1](https://github.com/ihabunek/toot/releases/tag/0.28.1) has corrected the issue at toot's end and the straight forward way is to use toot cli to bulk follow.
+
+```
+toot auth
+toot whoami
+toot follow '<fediverse_id>'
+```
+
+
+# OLD README CONTENT
 This script provides a quick bulk follow option for the gotosocial server.
 This is a temporary fix till https://github.com/superseriousbusiness/gotosocial/issues/1034 issue is fixed by team.
 
